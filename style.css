@@ -1,0 +1,85 @@
+.box-box {
+    display: flex;
+    flex-wrap: wrap;
+}
+.box1 {
+    background: rgb(251,165,250);
+    background: linear-gradient(0deg, rgba(251,165,250,1) 0%, rgba(156,38,244,1) 100%);
+    width: 550px;
+    height: 200px;
+    margin: 50px 50px;
+    display: flex;
+}
+img {
+    width: 250px;
+    height: 350px;
+    display: block;
+    position: relative;
+    bottom: 30px;
+}
+.text {
+    
+    font-family: 'Droid Serif', Georgia, Times, serif;
+    font-size: 20px;
+    line-height: 15px;
+    color: snow;
+}
+.box2 {
+    background: rgb(32,2,5);
+    background: linear-gradient(0deg, rgba(32,2,5,1) 0%, rgba(255,14,14,1) 100%);
+    width: 550px;
+    height: 200px;
+    margin: 50px 50px;
+    display: flex;
+}
+.img2 {
+    width: 250px;
+    height: 350px;
+    display: block;
+    position: relative;
+    bottom: 30px;
+}
+.text2 {
+    font-family: 'Droid Serif', Georgia, Times, serif;
+    font-size: 20px;
+    line-height: 15px;
+    color: snow;
+}
+.box3 {
+    background: rgb(32,2,5);
+    background: linear-gradient(0deg, rgba(32,2,5,1) 0%, rgba(14,255,80,1) 100%);
+    width: 550px;
+    height: 200px;
+    margin: 50px 50px;
+    display: flex;
+}
+.img3 {
+    width: 250px;
+    height: 350px;
+    display: block;
+    position: relative;
+    bottom: 60px;
+}
+.text3 {
+    font-family: 'Droid Serif', Georgia, Times, serif;
+    font-size: 30px;
+    line-height: 15px;
+    color: snow;
+}
+.box4 {
+    background: rgb(32,2,5);
+    background: linear-gradient(0deg, rgba(32,2,5,1) 0%, rgba(255,14,14,1) 100%);
+    width: 550px;
+    height: 200px;
+    margin: 50px 50px; 
+    display: flex;
+    
+}
+.img4 {
+    width: 350px;
+    height: 350px;
+    display: block;
+    position: relative;
+    bottom: 60px;
+    bottom: 150px;
+}
