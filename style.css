@@ -7,15 +7,15 @@
     background: linear-gradient(0deg, rgba(251,165,250,1) 0%, rgba(156,38,244,1) 100%);
     width: 550px;
     height: 200px;
-    margin: 50px 50px;
+    margin: 120px 50px;
     display: flex;
 }
 img {
-    width: 250px;
-    height: 350px;
+    width: 200px;
+    height: 300px;
     display: block;
     position: relative;
-    bottom: 30px;
+    bottom: 100px;
 }
 .text {
     
@@ -29,19 +29,19 @@ img {
     background: linear-gradient(0deg, rgba(32,2,5,1) 0%, rgba(255,14,14,1) 100%);
     width: 550px;
     height: 200px;
-    margin: 50px 50px;
+    margin: 120px 50px;
     display: flex;
 }
 .img2 {
-    width: 250px;
-    height: 350px;
+    width: 200px;
+    height: 300px;
     display: block;
     position: relative;
-    bottom: 30px;
+    bottom: 100px;
 }
 .text2 {
     font-family: 'Droid Serif', Georgia, Times, serif;
-    font-size: 20px;
+    font-size: 15px;
     line-height: 15px;
     color: snow;
 }
@@ -50,19 +50,19 @@ img {
     background: linear-gradient(0deg, rgba(32,2,5,1) 0%, rgba(14,255,80,1) 100%);
     width: 550px;
     height: 200px;
-    margin: 50px 50px;
+    margin: 120px 50px;
     display: flex;
 }
 .img3 {
-    width: 250px;
-    height: 350px;
+    width: 260px;
+    height: 310px;
     display: block;
     position: relative;
-    bottom: 60px;
+    bottom: 100px;
 }
 .text3 {
     font-family: 'Droid Serif', Georgia, Times, serif;
-    font-size: 30px;
+    font-size: 20px;
     line-height: 15px;
     color: snow;
 }
@@ -71,15 +71,21 @@ img {
     background: linear-gradient(0deg, rgba(32,2,5,1) 0%, rgba(255,14,14,1) 100%);
     width: 550px;
     height: 200px;
-    margin: 50px 50px; 
+    margin: 120px 50px; 
     display: flex;
     
 }
 .img4 {
-    width: 350px;
-    height: 350px;
+    width: 300px;
+    height: 300px;
     display: block;
     position: relative;
-    bottom: 60px;
-    bottom: 150px;
+    bottom: 100px;
 }
+.text4 {
+    font-family: 'Droid Serif', Georgia, Times, serif;
+    font-size: 20px;
+    line-height: 15px;
+    color: snow;
+}
+
